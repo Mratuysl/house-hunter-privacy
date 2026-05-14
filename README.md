@@ -14,4 +14,4 @@ Data is used solely to provide the House Hunter service — saving and syncing p
 All data is stored securely in Supabase. We do not sell or share your data with third parties.
 
 ## Contact
-For questions, contact: murat.u@freelancer.run
+For questions, contact: mceliloglu55@gmail.com
